@@ -138,3 +138,13 @@ jobs:
 ## License
 
 Content belongs to the original [carpedm20/awesome-hacking](https://github.com/carpedm20/awesome-hacking) contributors. The website code is provided as-is for educational purposes.
+
+---
+
+## Author
+
+**Built by Girish Lade** — founder of [LadeStack](https://ladestack.in), a free, open-source developer tools ecosystem.
+
+- GitHub: [@girishlade111](https://github.com/girishlade111)
+- Website: [ladestack.in](https://ladestack.in)
+- Contact: admin@ladestack.in
